@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **hongnhungpt73@gmail.com**
 
-- ⚡ Fun fact: **I love eating and sleeping more than anything in the world:>**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/phan-th%e1%bb%8b-h%e1%bb%93ng-nhung-079083242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phan-th%e1%bb%8b-h%e1%bb%93ng-nhung-079083242/" height="30" width="40" /></a>
