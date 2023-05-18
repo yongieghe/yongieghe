@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hong Nhung!</h1>
-<h3 align="center">Welcome to my world and you can call me Rosy <3</h3>
 <img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/108M7gCS1JSoO4/giphy.gif?cid=ecf05e47ga7s0ghjyii4exj73nm1v2hixdtbw09hgiqp2wax&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
