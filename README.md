@@ -14,8 +14,6 @@
 <a href="https://www.hackerrank.com/yongieghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yongieghe" height="30" width="40" /></a>
 <a href="https://discord.gg/Rosy#1275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rosy#1275" height="30" width="40" /></a>
 <a href="https://cryptohack.org/user/r0sy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/cryptohack.svg" alt="r0sy" height="30" width="40" /></a>
-[![CryptoHack](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/cryptohack.svg)](https://cryptohack.org/user/r0sy/)
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
